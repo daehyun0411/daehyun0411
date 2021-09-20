@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=daehyun's git%20render&fontSize=90)
+
 ### Hi 👋 I'm DaeHyun Kim!
 
 INTRODUCE ABOUT MYSELF
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **daehyun0411/daehyun0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
