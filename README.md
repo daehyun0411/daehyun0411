@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm DaeHyun Kim!###
+
+INTRODUCE ABOUT MYSELF
 
 <!--
 **daehyun0411/daehyun0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
